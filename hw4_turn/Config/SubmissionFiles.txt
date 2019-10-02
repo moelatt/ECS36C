@@ -1,7 +1,0 @@
-Makefile
-AVL.cpp
-AVL.h
-AVLCommands.cxx
-BST.cpp
-BST.h
-CreateData.cxx
